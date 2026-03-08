@@ -1,8 +1,8 @@
-# ☕ Java OOP Exercises
+# Java OOP Exercises
 
 Repositorio con ejercicios de programación orientada a objetos en Java.
 
-## 📚 Contenido
+## Contenido
 
 - Clases y objetos
 - Herencia
@@ -10,12 +10,6 @@ Repositorio con ejercicios de programación orientada a objetos en Java.
 - Colecciones
 - Ejercicios prácticos
 
-## 🎯 Objetivo
+## Objetivo
 
 Practicar los conceptos fundamentales de Java y programación orientada a objetos.
-
-## 🚀 Tecnologías
-
-- Java
-- Programación orientada a objetos (OOP)
-- Git
