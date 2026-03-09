@@ -1,8 +1,13 @@
-public class Main {
-    public static void main (String[] args) {
-       // Ejercicio 1 Muestra por pantalla: tu nombre, tu edad, el nombre del ciclo que estudias
-        System.out.println("hola, me llamo Myriam");
-        System.out.println("tengo 35 años");
-        System.out.println("Estoy estudiando Daw");
+public class Ejercicio1 {
+
+    public static void main(String[] args) {
+
+        // Ejercicio 1: Mostrar información personal
+
+        System.out.println("Hola, me llamo Myriam");
+        System.out.println("Tengo 35 años");
+        System.out.println("Estoy estudiando DAW");
+
     }
+
 }
