@@ -94,3 +94,44 @@ System.out.println("Me llamo Myriam");
 System.out.println("Estoy estudiando DAW");
 System.out.println("Java es mi primer lenguaje");
 
+8. Muy importante: diferencia entre texto y código
+Cuando escribes esto:
+
+System.out.println("Hola");
+
+"Hola" es texto literal.
+Pero esto:
+
+System.out.println(5);
+
+es un número.
+Java distingue los tipos de datos. Eso lo veremos en el siguiente bloque.
+
+9. Errores típicos al empezar
+Los más comunes son:
+Olvidar el ;
+Mal:
+
+System.out.println("Hola")
+
+Bien:
+
+System.out.println("Hola");
+
+Escribir mal main
+Debe ser exactamente así:
+
+public static void main(String[] args)
+
+Poner comillas mal
+Mal:
+
+System.out.println(Hola);
+
+Bien:
+
+System.out.println("Hola");
+
+
+
+
