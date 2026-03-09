@@ -1,0 +1,19 @@
+public class EjercicioVariables {
+
+    public static void main(String[] args) {
+
+        int edad = 20;
+        double altura = 1.68;
+        char inicial = 'M';
+        boolean estudiante = true;
+        String nombre = "Myriam";
+
+        System.out.println(nombre);
+        System.out.println(edad);
+        System.out.println(altura);
+        System.out.println(inicial);
+        System.out.println(estudiante);
+
+    }
+
+}
